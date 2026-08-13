@@ -1,0 +1,8 @@
+site_name: DeepSwapAI Documentation
+site_description: DeepSwapAI AI face swap documentation and resources
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
